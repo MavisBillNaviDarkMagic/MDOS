@@ -1,0 +1,46 @@
+# MDOS - Metaphoric Dystopia Operating System
+
+## Overview
+Universal operating system with quantum processing capabilities and cross-platform support.
+
+## Downloads
+- [Windows (exe)](releases/windows/MDOS.exe)
+- [Android (apk)](releases/android/MDOS.apk)
+- [iOS (ipa)](releases/ios/MDOS.ipa)
+- [MacOS (dmg)](releases/mac/MDOS.dmg)
+- [Linux (deb)](releases/linux/MDOS.deb)
+
+## Quick Install
+1. Download your platform version
+2. Run installer
+3. Done! 🎉
+
+## Repository Structure
+```
+MDOS/
+├── src/          # Source code
+├── releases/     # Platform executables
+├── docs/         # Documentation
+└── resources/    # System resources
+```
+
+## Requirements
+- Storage: 7GB
+- RAM: 4GB
+- Graphics: DirectX 11 or equivalent
+
+## Links
+- [Installation Guide](docs/INSTALL.md)
+- [Downloads](releases/)
+- [Documentation](docs/)
+
+## Author
+MAvisBillNaviDarkMAgic
+
+## License
+MIT License
+
+
+git add .
+git commit -m "Initial MDOS commit"
+git push -u origin main
